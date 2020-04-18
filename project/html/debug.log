@@ -1,0 +1,15 @@
+[0210/142919.429:ERROR:settings.cc(319)] Settings magic is not 1129342067
+[0425/164141.579:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0425/214410.878:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0426/190447.122:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0427/092117.600:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0430/192703.208:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[0430/214212.771:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0516/075655.736:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0516/203317.885:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0529/090030.026:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0529/114606.837:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0607/142226.861:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0607/144512.421:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0608/124522.327:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0610/140825.453:ERROR:settings.cc(320)] Settings magic is not 1129342067
